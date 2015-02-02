@@ -1,2 +1,2 @@
 # whovis
-D3-based web tool for visualizing editor interaction during the collaborative writing process of an wikipedia article
+D3-based web tool for visualizing editor interaction during the collaborative writing process of a wikipedia article
