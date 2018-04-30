@@ -15,7 +15,7 @@ from structures.Sentence import Sentence
 from structures.Word import Word
 from structures import Text
 
-from etc.Relation import Relation
+from structures.Relation import Relation
 
 from sys import argv,exit
 import getopt
